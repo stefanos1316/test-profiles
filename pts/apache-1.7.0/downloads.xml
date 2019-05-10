@@ -14,7 +14,7 @@
       <FileSize>6008</FileSize>
     </Package>
     <Package>
-      <URL>http://apache.cs.utah.edu//apr/apr-1.6.3.tar.bz2, http://archive.apache.org/dist/apr/apr-1.6.3.tar.bz2</URL>
+      <URL>http://apache.cs.utah.edu//apr/apr-1.6.3.tar.bz2, https://archive.apache.org/dist/apr/apr-1.6.3.tar.bz2</URL>
       <MD5>12f2a349483ad6f12db49ba01fbfdbfa</MD5>
       <SHA256>131f06d16d7aabd097fa992a33eec2b6af3962f93e6d570a9bd4d85e95993172</SHA256>
       <FileSize>854100</FileSize>
